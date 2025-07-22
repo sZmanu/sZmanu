@@ -23,8 +23,3 @@ Atualmente estou:
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel&logoColor=white)](https://meu-portifolio-puce.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuellaalves)
 
----
-
-### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sZmanu&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sZmanu&layout=compact&theme=react)
