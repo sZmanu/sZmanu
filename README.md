@@ -4,8 +4,7 @@
 💡 Tenho foco em **React**, **React Native**, **JavaScript**, **UI/UX Design** e tecnologias voltadas para a construção de experiências de usuário.
 
 Atualmente estou:
-- 🌱 Aprimorando habilidades em **React** e **JavaScript**
-- 🚀 Envolvida em bootcamps, projetos e cursos voltados para desenvolvimento web e mobile
+- 🚀 Cursando o bootcamp da Generation Brasil em **desenvolvimento full stack com javaScript**
 
 ---
 
