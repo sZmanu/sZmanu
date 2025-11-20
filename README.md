@@ -93,8 +93,8 @@
   <br>
   
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:manuelladevfront@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/manuella4252/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/manuellaalves-b72a3b33a/)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/manuella4252)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/manuellaalves)
 </div>
 
 ##
