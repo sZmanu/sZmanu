@@ -84,6 +84,7 @@
 ##
 
 <div align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="70"> 
   <samp>
     <h1>Contact me:</h1>
   </samp>
@@ -93,7 +94,7 @@
   
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:manuelladevfront@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/manuella4252/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/manuellaalves-b72a3b33a/](https://www.linkedin.com/in/manuellaalves))
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/manuellaalves-b72a3b33a/)
 </div>
 
 ##
