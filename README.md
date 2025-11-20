@@ -26,7 +26,7 @@
   <br>
   <br>
 
-<div align="center">
+<div align="center" width="100%">
   <img
     height=155
     align="center"
