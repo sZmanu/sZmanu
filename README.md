@@ -14,9 +14,6 @@
 </div>
 <br>
 <br>
-<div align="center">
-  <img src="https://img.shields.io/badge/manu_♡-black" />
-</div>
 <br>
 
 <details align="center">  
