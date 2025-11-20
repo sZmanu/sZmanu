@@ -28,7 +28,7 @@
 
 <br>
 
-<!-- Segunda linha -->
+
 <table>
   <tr>
     <td><img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sZmanu&theme=jolly"/></td>
@@ -47,8 +47,10 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Npm-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
 </div>
 <br>
@@ -64,43 +66,44 @@
   
   <br>
   <br>
+  <br>
+  
+  ##
   <samp>
-    <b>
-      Sobre
-    </b>
-<p>
- Olá! Meu nome é Manuella, mas pode me chamar de Manu. Tenho 21 anos e sempre fui apaixonada por criar, seja com código, lápis ou tinta. Comecei no desenho e na pintura, e hoje transformo essa criatividade em interfaces bonitas e experiências que fazem sentido.
-
-💻 Atualmente estudo Desenvolvimento de Software Multiplataforma na FATEC e também estou no Bootcamp de Desenvolvimento Full Stack da Generation Brasil, onde estou aprendendo sobre Type Script. Tenho experiência com desenvolvimento web e mobile, usando React.js e React Native, consumo de APIs REST, UI/UX, além disso tenho conhecimento em banco de dados, versionamento, testes básicos e metodologias ágeis. Gosto de deixar tudo funcional, organizado, mantendo as boas práticas.
-
-Fora da tecnologia, eu amo pintar, fazer peças de cerâmica, ouvir música e brincar com os meus 7 gatinhos. Sou movida por desafios, curiosidade e pela vontade de construir soluções que realmente ajudem pessoas.
-</p>
+   <h1>Sobre</h1>
+<h7>
+👋 Olá! Meu nome é Manuella, mas pode me chamar de Manu. Tenho 21 anos e sempre fui apaixonada por criar, seja com código, lápis ou tinta. Comecei no desenho e na pintura, e hoje transformo essa criatividade em interfaces bonitas e experiências que fazem sentido.
+<br>
+💻 Atualmente estudo Desenvolvimento de Software Multiplataforma na FATEC e também estou no Bootcamp de Desenvolvimento Full Stack da Generation Brasil, onde no momento estou me aprofundando no desenvolvimento back-end. Tenho experiência com desenvolvimento web e mobile, usando React.js e React Native, consumo de APIs REST, UI/UX, além disso tenho conhecimento em banco de dados, versionamento, testes básicos e metodologias ágeis. Gosto de deixar tudo funcional, organizado, seguindo as boas práticas.
+<br>
+✨ Fora da tecnologia, eu amo pintar, fazer peças de cerâmica, ouvir música, ir para a academia e brincar com os meus 7 gatinhos. Gosto muito de fazer coisas novas e descobrir novos hobbies.
+</h7>
   </samp>
-
 <br>
 
 ##
 
 <div align="center">
   <samp>
-    <b>
-      Contact me:
-    </b>
+    <h1>Contact me:</h1>
   </samp>
+  
   <br>
   <br>
-
+  
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:manuelladevfront@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/manuella4252/?next=%2F)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/manuellaalves-b72a3b33a/](https://www.linkedin.com/in/manuellaalves))
-  
 </div>
 
 ##
 
 </details>
-
 <br>
 <br>
+<br>
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=sZmanu&style=flat-square&color=BCA9DA" /></p> 
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&fontColor=BCA9DA&section=footer"/>
