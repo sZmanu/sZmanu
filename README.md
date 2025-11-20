@@ -17,33 +17,12 @@
 <br>
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
       <img height="155" src="https://github-readme-stats.vercel.app/api/?username=sZmanu&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=jolly&font=Iosevka"/>
-    </td>
-    <td align="center" style="padding: 10px;">
       <img height="155" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sZmanu&theme=jolly"/>
-    </td>
-    <td align="center" style="padding: 10px;">
       <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sZmanu&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=jolly"/>
-    </td>
-  </tr>
-</table>
-
 <br>
-
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
       <img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sZmanu&theme=jolly"/>
-    </td>
-    <td align="center" style="padding: 10px;">
       <img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sZmanu&theme=jolly&utcOffset=8"/>
-    </td>
-  </tr>
-</table>
 
 </div>
 
