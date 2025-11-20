@@ -1,4 +1,4 @@
-<img width="100%" src="[[https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa](https://capsule-render.vercel.app/api?type=waving&height=110&fontColor=BCA9DA)](https://capsule-render.vercel.app/api?type=waving&height=110&fontColor=6fa3fa)"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&fontColor=BCA9DA&section=header"/>
 
 <div align="center">
   <samp>
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=E1DFE3&width=435&lines=Seja+bem+vindo;Meu+nome+%C3%A9+manuella)](https://git.io/typing-svg)"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=E1DFE3&width=435&lines=Seja+bem+vindo;Meu+nome+%C3%A9+manuella"/>
 </div>
 
 <br>
@@ -38,16 +38,23 @@
 
 <div align="center">
   <img
-    height=165
+    height=155
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=sZmanu&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=jolly&font=Iosevka"
   />
+  
   <img
-    height=165
+    height=155
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sZmanu&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=jolly"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sZmanu&theme=jolly"
+  />
+  <img
+    height=155
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sZmanu&theme=jolly&utcOffset=8"
   />
   <br>
   <br>
@@ -56,14 +63,14 @@
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sZmanu&theme=jolly"
   />
-  <br>
-  <br>
   <img
-    height=154
+    height=200
     align="center"
     alt="Top Language"
-    src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sZmanu&theme=jolly&hide_border=true)](https://git.io/streak-stats)"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sZmanu&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=jolly"
   />
+  <br>
+  <br>
   </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -109,4 +116,4 @@
 <br>
 <br>
 
-<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&height=110&fontColor=BCA9DA&section=footer)"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&fontColor=BCA9DA&section=footer"/>
