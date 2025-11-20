@@ -17,12 +17,12 @@
 <br>
 
 <div align="center">
-      <img height="155" src="https://github-readme-stats.vercel.app/api/?username=sZmanu&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=jolly&font=Iosevka"/>
-      <img height="155" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sZmanu&theme=jolly&utcOffset=8"/>
+      <img height="153" src="https://github-readme-stats.vercel.app/api/?username=sZmanu&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=jolly&font=Iosevka"/>
+      <img height="153" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sZmanu&theme=jolly&utcOffset=8"/>
 </div>
 <div align="center">
-   <img height="185" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sZmanu&theme=jolly"/>
-   <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sZmanu&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=jolly"/>
+   <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sZmanu&theme=jolly"/>
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sZmanu&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=jolly"/>
 </div>
 <div align="center">
  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sZmanu&theme=jolly"/>
