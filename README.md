@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&fontColor=BCA9DA&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&fontColor=8606DB&section=header"/>
 
 <div align="center">
   <samp>
@@ -15,16 +15,6 @@
 <br>
 <br>
 <br>
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-  <br>
-  <br>
 
 <div align="center" width="100%">
   <img
@@ -75,10 +65,26 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-
-
-  
 </div>
+<br>
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+  <br>
+  <br>
+  <samp>
+    <b>
+      Sobre
+    </b>
+    <p>Sou desenvolvedora front-end, cursando desenvolvimento de software multiplataforma na FATEC, e o Bootcamp de desenvolvimento Full Stack na Generation Brasil.</p>
+  </samp>
 
 <br>
 
