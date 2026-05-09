@@ -17,8 +17,8 @@
 <br>
 
 <div align="center">
-      <img height="153" src="https://github-readme-stats.vercel.app/api/?username=sZmanu&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=jolly&font=Iosevka"/>
-      <img height="153" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sZmanu&theme=jolly&utcOffset=8"/>
+     
+      
 </div>
 <div align="center">
    <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sZmanu&theme=jolly"/>
@@ -33,8 +33,11 @@
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NestJS-Dark.svg" />
+   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
@@ -42,6 +45,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Postman.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Npm-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
 </div>
@@ -64,7 +68,7 @@
   <samp>
    <h1>Sobre</h1>
 <h7>
-👋 Olá! Meu nome é Manuella, mas pode me chamar de Manu. Tenho 21 anos e sempre fui apaixonada por criar, seja com código, lápis ou tinta. Comecei no desenho e na pintura, e hoje transformo essa criatividade em interfaces bonitas e experiências que fazem sentido.
+👋 Olá! Meu nome é Manuella, mas pode me chamar de Manu. Tenho 22 anos e sempre fui apaixonada por criar, seja com código, lápis ou tinta. Comecei no desenho e na pintura, e hoje transformo essa criatividade em interfaces bonitas e experiências que fazem sentido.
 <br>
 💻 Atualmente estudo Desenvolvimento de Software Multiplataforma na FATEC e também estou no Bootcamp de Desenvolvimento Full Stack da Generation Brasil, onde no momento estou me aprofundando no desenvolvimento back-end. Tenho experiência com desenvolvimento web e mobile, usando React.js e React Native, consumo de APIs REST, UI/UX, além disso tenho conhecimento em banco de dados, versionamento, testes básicos e metodologias ágeis. Gosto de deixar tudo funcional, organizado, seguindo as boas práticas.
 <br>
